@@ -1,0 +1,1 @@
+Bang ajarin dong bang
