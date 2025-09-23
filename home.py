@@ -215,7 +215,7 @@ elif menu == "Fetch Data":
         def fetch_all_pages(endpoint_url, form_data, headers, max_pages=100):
             """Fetch all pages from an endpoint"""
             all_data = []
-            current_page = 1
+            current_page = 0
             
             while current_page <= max_pages:
                 try:
